@@ -7,8 +7,8 @@ AI 产品经理，现居广州。5 年数据领域经验（数据分析 → 产�
 | 项目 | 说明 | 我的角色 |
 |---|---|---|
 | [agent-log-evaluator](https://github.com/wusiyi541/agent-log-evaluator) | 智能体日志评测系统：日志解析 → LLM 裁判五维评分 → 可视化报告，支撑近 200 条测试集的上线回归，意图识别准确率 71.9% → 89.9% | 设计者 + 开发者 |
-| [gov-ai-assistant-prototype](https://github.com/wusiyi541/gov-ai-assistant-prototype) | 政务数据问答助手移动端对话界面高保真原型（手机端 + 折叠屏方案） | 产品设计者 |
-| [ontology-explorer-demo](https://github.com/wusiyi541/ontology-explorer-demo) | 政务市场主体档案本体图谱：概念/属性/实例三層建模 + 交互式可视化，301 节点 / 648 关系 | 设计者 + 开发者 |
+| [gov-ai-assistant-prototype](https://github.com/wusiyi541/gov-ai-assistant-prototype) | 广东省数据资源"一网共享"平台 AI 助手移动端设计图集：语音交互、会话管理、答案溯源、折叠屏适配，25 张 | 产品设计者 |
+| [nano-ontoprompt-plus](https://github.com/wusiyi541/nano-ontoprompt-plus) | 基于开源 nano-ontoprompt 二次开发的政务本体平台：实例图谱、11 格式导出、关系遍历工具等 7 项增强，并以"一企一档"主题库完成建模→图谱→智能体问答全流程落地 | 设计者 + 开发者 |
 
 ## 我在做什么
 
